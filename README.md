@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Johnathan (@johnathanlaw), and I'm a 30-something software guy. I graduated from the University of Dundee in 2015 with a First Class BSc in Applied Computing.
 - 👀 I’m interested in product management, people, and software engineering
-- 🌱 I’m currently learning Python in my spare time to take part in Advent of Code!
 - 💻 www.johnathanlaw.com
 
 <!---
